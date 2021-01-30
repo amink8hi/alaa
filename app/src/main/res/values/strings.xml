@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">آلا</string>
+    <string name="list_is_empty">لیست خالی است!</string>
+    <string name="error_in_connection">خطا در برقراری ارتباط</string>
+</resources>
